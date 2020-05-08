@@ -1,0 +1,8 @@
+package ch02;
+  
+   public class persegi{
+   int sisi;
+   it luas(){
+      return sisi*sisi;
+   }
+}

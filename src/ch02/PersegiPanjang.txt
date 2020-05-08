@@ -1,0 +1,9 @@
+package ch02;
+ 
+public static void main(String[] args){
+   int panjang;
+   int lebar;
+   int luas(){
+   return panjang * lebar;
+  }
+}
