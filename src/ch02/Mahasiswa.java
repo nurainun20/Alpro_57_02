@@ -14,7 +14,7 @@ package ch02;
    return nama;
  }
 
- public String getAlammat () {
+ public String getAlamat () {
   return alamat;
  }
 
@@ -22,8 +22,10 @@ package ch02;
   return hp;
  }
 
-pulic vooid cetak () {
+public void cetak () {
  System.out.println ("NIM : " + nim );
  System.out.println ("Nama : " + nama);
- System.out.println (Alamat : " + alamat);
- System.out.println (HP : " + hp);
+ System.out.println ("Alamat : " + alamat);
+ System.out.println ("HP : " + hp);
+}
+}

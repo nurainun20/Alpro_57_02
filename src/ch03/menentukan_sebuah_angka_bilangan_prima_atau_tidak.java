@@ -1,5 +1,5 @@
  import java.util.Scanner;
-public class MenentukanSebuahAngkaBilanganPrimaAtauTidak {
+public class menentukan_sebuah_angka_bilangan_prima_atau_tidak {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Silahkan masukkan angka yang akan di cek: ");

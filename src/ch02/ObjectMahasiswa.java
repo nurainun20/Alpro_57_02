@@ -6,7 +6,7 @@ public class ObjectMahasiswa{
    mhs.nim = "10201";
    mhs.nama = "Andi";
    mhs.alamat = "Jl. Sudirman No.123";
-   mhs.hp = "081234567890"
+   mhs.hp = "081234567890";
    mhs.cetak ();
   }
 }

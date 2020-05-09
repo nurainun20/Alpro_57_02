@@ -1,4 +1,4 @@
-public class MenentukanNilaiTertinggiAntaraVariabelXDanY {
+public class menentukan_nilai_tertinggi_antara_x_y_dan_z {
 
     public static void main(String[] args) {
         int x=20;

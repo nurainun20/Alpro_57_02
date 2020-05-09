@@ -9,7 +9,7 @@ package ch02;
    return nama;
  }
  
- public String getJumlahMahasiswa () {
+ public int getJumlahMahasiswa () {
     return jumlahMahasiswa;
  }
 

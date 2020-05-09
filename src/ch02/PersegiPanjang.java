@@ -1,6 +1,6 @@
 package ch02;
- 
-public static void main(String[] args){
+
+public class PersegiPanjang{ 
    int panjang;
    int lebar;
    int luas(){

@@ -2,7 +2,7 @@ package ch02;
 
 import java.util.Date;
 
-public class ObjectProduct {
+public class ObjectProduk{
   public static void main (String[] args) {
     Produk x1 = new Produk();
     x1.barcode = "423332223";
@@ -19,11 +19,11 @@ public class ObjectProduct {
     System.out.println (x1.nama + " (" + x1.barcode + ") ");
     System.out.println ("Harga: Rp" + x1.harga);
     System.out.println ("Exp: " + x1.tanggalKedaluarsa.toString());
-    Sytem.out.println ("===========================");
+  
 
     System.out.println (x2.nama + " (" + x1.barcode + ") ");
     System.out.println ("Harga: Rp" + x2.harga);
     System.out.println ("Exp: " + x2.tanggalKedaluarsa.toString());
-    Sytem.out.println ("===========================");
+    
    }
 }

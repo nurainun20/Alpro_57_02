@@ -5,7 +5,7 @@ public class ObjectTrapesium {
    Trapesium trapesium = new Trapesium ();
    trapesium.alasBawah = 25;
    trapesium.alasAtas = 18;
-   trapesium.tiggi = 12;
+   trapesium.tinggi = 12;
    System.out.println ("Luas = " + trapesium.luas());
   }
 }

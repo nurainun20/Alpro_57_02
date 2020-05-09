@@ -1,5 +1,5 @@
 package menentukan_bilangan_pembagi_terkecil_kecuali_1_dan_2;
-public class Menentukan_bilangan_pembagi_terkecil_kecuali_1_dan_2 {
+public class menentukan_bilangan_pembagi_terkecil_kecuali_1_dan_2 {
     public static void main(String[] args) {
         int a=2;
         
