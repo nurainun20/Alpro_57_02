@@ -1,4 +1,7 @@
-public class algoritma_euclidean {
+package algoritmaeuclidean;
+import java.util.Scanner;
+
+public class Algoritmaeuclidean{
     public static void main(String[] args) {
         int n,m,r;
         
