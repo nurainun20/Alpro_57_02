@@ -1,4 +1,4 @@
-package algoritma_kadane;
+ package algoritma_kadane;
 
 public class Algoritma_kadane {
    public static void maxSumIndexes(int[]a){
